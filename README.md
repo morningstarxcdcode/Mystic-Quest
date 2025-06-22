@@ -244,3 +244,21 @@ Enjoy your adventure, and may your choices lead you to the ending you deserve!
 ---
 
 *"In every choice lies the seed of destiny. Choose wisely, brave adventurer."*
+
+<img width="1111" alt="Screenshot 2025-06-22 at 3 01 54 PM" src="https://github.com/user-attachments/assets/d3b82198-7d14-44b0-a0a3-4b55279b44b9" />
+
+<img width="1084" alt="Screenshot 2025-06-22 at 3 02 09 PM" src="https://github.com/user-attachments/assets/bcdf31ad-0e8c-48b6-ae7e-53fea683ec49" />
+
+<img width="1075" alt="Screenshot 2025-06-22 at 3 03 06 PM" src="https://github.com/user-attachments/assets/d2af8551-86c5-4bbf-9ad1-53db47360abf" />
+
+<img width="855" alt="Screenshot 2025-06-22 at 7 50 29 PM" src="https://github.com/user-attachments/assets/113da1b6-60e9-47c2-97ca-c811a298ee17" />
+
+<img width="855" alt="Screenshot 2025-06-22 at 7 50 39 PM" src="https://github.com/user-attachments/assets/56ddd2b2-58f0-4234-adde-66f35006eea1" />
+
+<img width="853" alt="Screenshot 2025-06-22 at 7 51 06 PM" src="https://github.com/user-attachments/assets/f511dc69-fb06-44e8-9953-9c708c16f3e9" />
+
+#AmazonQDevCLI
+#BuildGamesChallenge
+
+
+
